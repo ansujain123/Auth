@@ -1,0 +1,22 @@
+{
+  "name": "Auth",
+  "version": "0.1.0",
+  "summary": "A short description of Auth.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ansujain123/Auth",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ansujain123": "ansu.jain@kuliza.com"
+  },
+  "source": {
+    "git": "https://github.com/ansujain123/Auth.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Auth/Classes/**/*"
+}
